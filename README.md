@@ -1,4 +1,4 @@
-👋 Hey there, I'm Kumar Vivek!
+# 👋 Hey there, I'm Kumar Vivek!
 
 Welcome to my colorful corner on GitHub! I'm Kumar Vivek, a passionate web developer with a penchant for crafting captivating digital experiences. Here's a sneak peek into what I bring to the table:
 
@@ -11,10 +11,10 @@ Welcome to my colorful corner on GitHub! I'm Kumar Vivek, a passionate web devel
 - 🎨 Skilled in leveraging **Bootstrap** to rapidly prototype and build beautiful, responsive web interfaces.
 
 ### My Tech Palette 🎨:
-- Frontend: HTML | CSS | JavaScript | ReactJS | TypeScript | Redux | Tailwind CSS | Bootstrap
-- Backend: Node.js | ExpressJS | Prisma
-- Databases: MongoDB | PostgreSQL
-- Other Tools: Firebase | Docker
+- **Frontend:** HTML | CSS | JavaScript | ReactJS | TypeScript | Redux | Tailwind CSS | Bootstrap
+- **Backend:** Node.js | ExpressJS | Prisma
+- **Databases:** MongoDB | PostgreSQL
+- **Other Tools:** Firebase | Docker
 
 Dive into my repositories to discover a treasure trove of projects and contributions. Let's collaborate and paint the web with brilliance! 🎨✨
 
